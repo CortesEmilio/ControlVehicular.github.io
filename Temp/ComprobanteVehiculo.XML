@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehiculos>
+  <IdVehiculo IdVehiculo="161">
+    <NumSerie>64</NumSerie>
+    <Placa>6</Placa>
+    <Motor>4365</Motor>
+    <Factura>436.00</Factura>
+    <Version>436</Version>
+    <Anio>2046</Anio>
+    <Color>54654</Color>
+    <Modelo>5645</Modelo>
+    <Origen>46</Origen>
+    <Tipo>13</Tipo>
+    <Puerta>3</Puerta>
+    <Transmision>351</Transmision>
+    <Cilindraje>351</Cilindraje>
+    <TipoDeCombustible>124</TipoDeCombustible>
+    <Propietario>9</Propietario>
+  </IdVehiculo>
+</Vehiculos>

@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="FITenenciasEst.css">
+  <title>Alta de Tenencias</title>
+</head>
+
+<body>
+  <div class="contenedor">
+  <h1>Ingresar Tenencia</h1>
+  <div class="subCon">
+<form id="form1" name="form1" method="post" action="ITenencias.php">
+  
+  <p>
+    <label>IdTenencia
+    <input name="IdTenencia" type="text" id="IdTenencia" disabled/>
+    </label>
+  </p>
+  <p>
+    <label>Monto
+    <input name="Monto" type="text" id="Monto" />
+    </label>
+  </p>
+  <p>
+    <label>Anio
+    <input name="Anio" type="text" id="Anio" maxlength="4" />
+    </label>
+  </p>
+  <p>
+    <label>Descuento
+    <br />
+    <input type="radio" name="Descuento" value="Si" />
+Si</label>
+    <br />
+    <label>
+    <input type="radio" name="Descuento" value="No" />
+No</label>
+    <label>    </label>
+  </p>
+  <p>
+    <label>Vehiculo
+    <input name="Vehiculo" type="text" id="Vehiculo" />
+    </label>
+  </p>
+  <p>
+    <div class="boton">
+    <input type="submit" name="Submit" value="Submit" />
+    </div>
+</p>
+  <p>&nbsp;</p>
+</form>
+</div></div>
+</body>
+</html>

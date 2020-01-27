@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Licencias>
+  <IdLicencia IdLicencia="4444">
+    <Restriccion>Si</Restriccion>
+    <FechaDeExp>2019-12-03</FechaDeExp>
+    <Vigencia>2019-12-20</Vigencia>
+    <Antiguedad>8</Antiguedad>
+    <LugarDeExp>queretaro</LugarDeExp>
+  </IdLicencia>
+</Licencias>

@@ -1,0 +1,45 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+html, body{
+	width: 100%;
+	height: 100%;
+}
+
+.contenedor{
+	width: 100%;
+	height: 100%;
+	float: left; 
+	position: relative;
+	background-image: url(Q.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+h1{
+	width: 80%;
+	height: 7%;
+	position: relative;
+	float: left;
+	background-color: #1757B7;
+	border-radius: 10px;
+	border: 5px solid black;
+	margin-left: 10%;
+	color: white;
+	text-align: center;
+}
+
+table{
+	width: 80%;
+	height: 80%;
+	position: relative;
+	float: left;
+	background-color: white;
+	border-radius: 10px;
+	border: 5px solid black;
+	margin-left: 6%;
+	margin-top: 3%;
+}

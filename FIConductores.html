@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="FIConductoresEst.css">
+  <title>Alta de Conductores</title>
+</head>
+
+<body>
+<div class="contenedor">
+  <h1>Ingresar conductor</h1>
+<div class="subCon">
+<form id="form1" name="form1" method="post" action="IConductores.php">
+
+  <p>
+    <label>IdConductor
+    <input name="IdConductor" type="text" id="IdConductor" disabled/>
+    </label>
+  </p>
+  <p>
+    <label>Nombre
+    <input name="Nombre" type="text" id="Nombre" />
+    </label>
+  </p>
+  <p>
+    <label>Direccion
+    <input name="Direccion" type="text" id="Direccion" />
+    </label>
+</p>
+  <p>
+    <label>Edad
+    <input name="Edad" type="text" id="Edad" />
+    </label>
+  </p>
+  <p>
+    <label>Genero
+    <select name="Genero">
+      <option value="Femenino">Femenino</option>
+      <option value="Masculino">Masculino</option>
+      <option value="Indefinido">Indefinido</option>
+    </select>
+</label>
+  </p>
+  <p>
+    <label>Firma
+    <input name="Firma" type="text" id="Firma" />
+    </label>
+  </p>
+  <p>
+    <label>TipoDeSangre
+    <input name="TipoDeSangre" type="text" id="TipoDeSangre" maxlength="4" />
+    </label>
+  </p>
+  <p>
+    <label>Foto
+    <input name="Foto" type="text" id="Foto" />
+    </label>
+  </p>
+  <p>
+    <label>FechaDeNac
+    <input name="FechaDeNac" type="date" id="FechaDeNac" maxlength="4" />
+    </label>
+</p>
+  <p>
+    <label>RFC
+    <input name="RFC" type="text" id="RFC" maxlength="13" />
+    </label>
+  </p>
+  <p>
+    <label>CURP
+    <input name="CURP" type="text" id="CURP" maxlength="18" />
+    </label>
+  </p>
+  <p>
+    <label>Donador
+    
+    
+    <br />
+    <input type="radio" name="Donador" value="Si" />
+Si</label>
+    <br />
+    <label>
+    <input type="radio" name="Donador" value="No" />
+No</label>
+    <br />
+    <label> </label>
+  </p>
+  <p>
+    <div class="boton">
+    <input type="submit" name="Submit" value="Submit" />
+    </div>
+  </p>
+  <p>&nbsp; </p>
+</form>
+</div>
+</div>
+</body>
+</html>

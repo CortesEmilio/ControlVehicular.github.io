@@ -1,0 +1,81 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+html, body{
+	width: 100%;
+	height: 100%;
+}
+
+.contenedor{
+	width: 100%;
+	height: 100%;
+	float: left; 
+	position: relative;
+	background-image: url(Q.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.titulo{
+	width: 30%;
+	height: 80px;
+	float: left;
+	position: relative;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 60px;
+	margin-left: 37%;
+	color: white;
+	background-color: #1757B7;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+
+.subtitle{
+	width: 80%;
+	height: 30px;
+	float: left;
+	position: relative;
+	background-color: white;
+	text-align: center;
+	border-radius: 15px;
+	margin-top: 30px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+	padding-top: 10px;
+}
+
+.usuario, .admin{
+	width: 18%;
+	height: 220px;
+	float: left;
+	position: relative;
+	border-radius: 15px;
+	margin-left: 22%;
+	margin-top: 8%;
+	text-align: center;
+	background-color: #1757B7;
+	border: 5px solid black;
+}
+
+.usuario>label,.admin>label{
+	width: 100%;
+	height: 10%;
+	float: left;
+	position: relative;
+	margin-top: 0px;
+}
+
+.boton>input[type="submit"]{
+	width: 30%;
+	height: 10%;
+	float: left;
+	position: relative;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-left: 85px;
+}
+

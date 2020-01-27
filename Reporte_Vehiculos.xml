@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehiculos>
+  <IdVehiculo IdVehiculo="2">
+    <NumSerie>545454541</NumSerie>
+    <Placa>UKE122</Placa>
+    <Motor>V8SSSS</Motor>
+    <Factura>1.00</Factura>
+    <Version>1</Version>
+    <Anio>2023</Anio>
+    <Color>Rojo</Color>
+    <Modelo>Advanced</Modelo>
+    <Origen>Mexicano</Origen>
+    <Tipo>Coupe</Tipo>
+    <Puerta>4</Puerta>
+    <Transmision>Auto</Transmision>
+    <Cilindraje>s</Cilindraje>
+    <TipoDeCombustible>Magnas</TipoDeCombustible>
+    <Propietario>1</Propietario>
+  </IdVehiculo>
+</Vehiculos>

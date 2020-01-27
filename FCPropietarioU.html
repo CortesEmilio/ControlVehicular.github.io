@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="FCPropietarioE.css">
+  <title>Consulta</title>
+</head>
+
+<body>
+  <div class="contenedor">
+    <h1>Ingresa el dato que deseas buscar</h1>
+    <div class="subCon">
+    <form id="form1" name="form1" method="post" action="CPropietariosU.php">
+    <label>Criterio
+    <input name="Criterio" type="text" id="Criterio" />
+    </label>
+    <p>
+      <label>
+      <input type="radio" name="Atributo" value="IdPropietario" />
+      IdPropietario</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="RFC" />
+      RFC</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="CURP" />
+      CURP</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="Nombre" />
+      Nombre</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="Direccion" />
+      Direccion</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="Genero" />
+      Genero</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="FechaDeNac" />
+      Fecha de Nac</label>
+      <br />
+      <label>
+      <input type="radio" name="Atributo" value="Edad" />
+      Edad</label>
+      <br />
+    </p>
+    <p>
+      <div class="boton">
+      <input type="submit" name="Submit" value="Submit" />
+      </div>
+    </p>
+    <p>&nbsp;</p>
+    </form>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Propietarios>
+  <Propietario id="1">
+    <RFC>6</RFC>
+    <CURP>27</CURP>
+    <Nombre>2</Nombre>
+    <Direccion>222</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>0002-02-02</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="2">
+    <RFC>emilio</RFC>
+    <CURP>emilio</CURP>
+    <Nombre>emilio</Nombre>
+    <Direccion>emilio</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>1099-01-09</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="3">
+    <RFC>12222</RFC>
+    <CURP>111</CURP>
+    <Nombre>emilio</Nombre>
+    <Direccion>1</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>0001-02-11</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="4">
+    <RFC>2</RFC>
+    <CURP>2</CURP>
+    <Nombre>2</Nombre>
+    <Direccion>2</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>0002-02-02</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="5">
+    <RFC>123123</RFC>
+    <CURP>12312312</CURP>
+    <Nombre>jfhf</Nombre>
+    <Direccion>rewrweq</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>0002-02-02</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="6">
+    <RFC>ACC</RFC>
+    <CURP>ZvZXCVZX</CURP>
+    <Nombre>ZXCZXV</Nombre>
+    <Direccion>XZVZXV</Direccion>
+    <Fecha_De_Nacimiento>ZXV</Fecha_De_Nacimiento>
+    <Edad>2019-10-02</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="7">
+    <RFC>ZXcz</RFC>
+    <CURP>Zczcz</CURP>
+    <Nombre>XC XZC </Nombre>
+    <Direccion>CXZVXZCV</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>2019-10-12</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="8">
+    <RFC>123</RFC>
+    <CURP>RWERQW</CURP>
+    <Nombre>ASDFASF</Nombre>
+    <Direccion>AFASF</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-15</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="9">
+    <RFC>AFSD</RFC>
+    <CURP>FSFAS</CURP>
+    <Nombre>ASFASF</Nombre>
+    <Direccion>AFASF</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>2019-11-14</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="10">
+    <RFC>DDD</RFC>
+    <CURP>DDSS</CURP>
+    <Nombre>SFSADF</Nombre>
+    <Direccion>ASDFASF</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>0001-02-11</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="11">
+    <RFC>ZV</RFC>
+    <CURP>ZVC</CURP>
+    <Nombre>FF</Nombre>
+    <Direccion>SDFBGDFS</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>2019-12-12</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="12">
+    <RFC>RRR</RFC>
+    <CURP>SDGSD</CURP>
+    <Nombre>DESR</Nombre>
+    <Direccion>SGFSDFG</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-03</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="13">
+    <RFC>SAFASF</RFC>
+    <CURP>AFSFASDF</CURP>
+    <Nombre>EWW</Nombre>
+    <Direccion>WEWEW</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-09</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="14">
+    <RFC>FDS</RFC>
+    <CURP>DDD</CURP>
+    <Nombre>DDDS</Nombre>
+    <Direccion>DFSDF</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>0001-02-11</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="15">
+    <RFC>12</RFC>
+    <CURP>33</CURP>
+    <Nombre>rwe</Nombre>
+    <Direccion>efas</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-01</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="16">
+    <RFC>233</RFC>
+    <CURP>24234R</CURP>
+    <Nombre>FSFSD</Nombre>
+    <Direccion>FDASF</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>2019-10-10</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="17">
+    <RFC>33</RFC>
+    <CURP>3222</CURP>
+    <Nombre>EEEE</Nombre>
+    <Direccion>RRRR</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-22</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="18">
+    <RFC>wqerqwe</RFC>
+    <CURP>rqwrqwer</CURP>
+    <Nombre>wqrqw</Nombre>
+    <Direccion>rwerqw</Direccion>
+    <Fecha_De_Nacimiento>Mujer</Fecha_De_Nacimiento>
+    <Edad>2019-10-25</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="19">
+    <RFC>23423</RFC>
+    <CURP>sdfgf</CURP>
+    <Nombre>resfdg</Nombre>
+    <Direccion>dfgsdg</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-23</Edad>
+  </Propietario>
+</Propietarios>
+<Propietarios>
+  <Propietario id="20">
+    <RFC>fsdf</RFC>
+    <CURP>sdgfdg</CURP>
+    <Nombre>dfgdsgds</Nombre>
+    <Direccion>2q3rweqrwq</Direccion>
+    <Fecha_De_Nacimiento>Hombre</Fecha_De_Nacimiento>
+    <Edad>2019-10-24</Edad>
+  </Propietario>
+</Propietarios>

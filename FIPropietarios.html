@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="FIPropietariosEst.css">
+  <title>Alta de Propietarios</title>
+</head>
+
+<body>
+  <div class="contenedor">
+  <h1>Ingresar Propietario</h1>
+  <div class="subCon">
+<form id="form1" name="form1" method="post" action="IPropietarios.php">
+  <label>IdPropietario
+  <input name="IdPropietario" type="text" id="IdPropietario" disabled/>
+  </label>
+  <p>
+    <label>RFC
+    <input name="RFC" type="text" id="RFC" maxlength="13" />
+    </label>
+  </p>
+  <p>
+    <label>CURP
+    <input name="CURP" type="text" id="CURP" maxlength="18" />
+    </label>
+  </p>
+  <p>
+    <label>Nombre
+    <input name="Nombre" type="text" id="Nombre" />
+    </label>
+</p>
+  <p>
+    <label>Direccion
+    <input name="Direccion" type="text" id="Direccion" />
+    </label>
+  </p>
+  <p>
+    <label>Genero
+    <select name="Genero" id="Genero">
+      <option value="Indefinido">Indefinido</option>
+      <option value="Femenino">Femenino</option>
+      <option value="Masculino">Masculino</option>
+    </select>
+    </label>
+  </p>
+  <p>
+    <label>FechaDeNac
+    <input name="FechaDeNac" type="date" id="FechaDeNac" />
+    </label>
+  </p>
+  <p>
+    <label>Edad
+    <input name="Edad" type="text" id="Edad" />
+    </label>
+  </p>
+  <p>
+    <div class="boton">
+    <input type="submit" name="Submit" value="Submit" />
+    </div>
+  </p>
+</form>
+</div>
+</div>
+</body>
+</html>

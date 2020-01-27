@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="FCUsuarioE.css">
+  <title>Consulta</title>
+</head>
+
+<body>
+<div class="contenedor">
+  <h1>Ingresa el dato que deseas buscar</h1>
+<div class="subCon">
+<form id="form1" name="form1" method="post" action="CUsuarioU.php">
+  <label>Criterio
+  <input name="Criterio" type="text" id="Criterio" />
+  </label>
+  <p>
+    <label>
+    <input type="radio" name="Atributo" value="Usuario" />
+Usuario</label>
+    <br />
+    <label>
+    <input type="radio" name="Atributo" value="Contrasenia" />
+Contrasenia</label>
+    <br />
+    <label>
+    <input type="radio" name="Atributo" value="Tipo" />
+Tipo</label>
+    <br />
+    <label>
+    <input type="radio" name="Atributo" value="Estado" />
+Estado</label>
+    <br />
+    <label>
+    <input type="radio" name="Atributo" value="Intento" />
+Intento</label>
+    <br />
+    <label>
+    <input type="radio" name="Atributo" value="Bloqueado" />
+Bloqueado</label>
+    <br />
+  </p>
+  <p>
+    <div class="boton">
+    <input type="submit" name="Submit" value="Submit" />
+    </div>
+</p>
+</form>
+</div>
+</div>
+</body>
+</html>

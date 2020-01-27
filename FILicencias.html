@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="FILicenciasEst.css">
+  <title>Alta de Licencias</title>
+</head>
+
+<body>
+<div class="contenedor">
+  <h1>Ingresar Licencia</h1>
+<div class="subCon">
+<form id="form1" name="form1" method="post" action="ILicencias.php">
+  
+  <p>
+    <label>IdLicencia
+    <input name="IdLicencia" type="text" id="IdLicencia" />
+    </label>
+  </p>
+  <p>
+    <label>Restriccion</label>
+  </p>
+  <p>
+    <label>
+    <input type="radio" name="Restriccion" value="Si" />
+    Si</label>
+    <br />
+    <label>
+    <input type="radio" name="Restriccion" value="No" />
+    No</label>
+  </p>
+  <p>
+    <label>FechaDeExp
+    <input name="FechaDeExp" type="date" id="FechaDeExp" />
+    </label>
+  </p>
+  <p>
+    <label>Antiguedad
+    <input name="Antiguedad" type="text" id="Antiguedad" maxlength="3" />
+    </label>
+  </p>
+  <p>
+    <label>Vigencia
+    <input name="Vigencia" type="date" id="Vigencia" />
+    </label>
+</p>
+  <p>
+    <label>Conductor
+    <input name="Conductor" type="text" id="Conductor" />
+    </label>
+  </p>
+  <p>
+    <label>LugarDeExp
+    <input name="LugarDeExp" type="text" id="LugarDeExp" />
+    </label>
+  </p>
+  <p>
+    <div class="boton">
+    <input type="submit" name="Submit" value="Submit" />
+    </div>
+</p>
+  <p>&nbsp;</p>
+</form>
+</div>
+</div>
+</body>
+</html>
